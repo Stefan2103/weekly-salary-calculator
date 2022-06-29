@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<configuration>
+    <configSections>
+    </configSections>
+    <connectionStrings>
+        <add name="Kalkulator_dnevnice.Properties.Settings.KaficDnevniceKalkulatorConnectionString"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=&quot;C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\KaficDnevniceKalkulator.mdb&quot;"
+            providerName="System.Data.OleDb" />
+        <add name="Kalkulator_dnevnice.Properties.Settings.KaficDnevniceKalkulatorConnectionString1"
+            connectionString="Provider=Microsoft.ACE.OLEDB.12.0;Data Source=|DataDirectory|\KaficDnevniceKalkulator.mdb"
+            providerName="System.Data.OleDb" />
+    </connectionStrings>
+    <startup> 
+        <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.7.2" />
+    </startup>
+</configuration>

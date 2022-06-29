@@ -1,0 +1,20 @@
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\Kalkulator dnevnice.exe.config
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\Kalkulator dnevnice.exe
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\Kalkulator dnevnice.pdb
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.csproj.AssemblyReference.cache
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.Form1.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.newDay.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.Properties.Resources.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.csproj.GenerateResource.cache
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.csproj.CoreCompileInputs.cache
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.exe
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.pdb
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.csproj.SuggestedBindingRedirects.cache
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.editDay.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.CalculatePay.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\Kalkulator dnevnice.exe.manifest
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\Kalkulator dnevnice.application
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.exe.manifest
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator dnevnice.application
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\obj\Debug\Kalkulator_dnevnice.deleteDay.resources
+C:\Users\SupremeSO\Desktop\Kalkulator dnevnice\Kalkulator dnevnice\Kalkulator dnevnice\bin\Debug\KaficDnevniceKalkulator.mdb
